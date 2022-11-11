@@ -76,7 +76,7 @@ public class SWAP_NUMBERS1 {
 			obj[i].grade();
 		}
 	}
-	public void accept()
+	public void accept()  	//  accepting the name, number & subject
 	{
 		
 		
@@ -137,7 +137,7 @@ Q3) Write a program to accept size from user accordingly accept no from the user
 import java.util.Scanner;
 
 public class SWAP_NUMBERS2 {
-
+//instance variable
 	int i,j,temp,size;
 	Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) 
